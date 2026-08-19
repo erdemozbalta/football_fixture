@@ -72,4 +72,7 @@ java -cp build\classes footballfixture.FootballFixture
 
 ## Author
 
-**erdemozbalta**
+<p align="center">
+  <strong>Erdem Özbalta</strong><br>
+  <a href="mailto:erdemozbalta@gmail.com">erdemozbalta@gmail.com</a>
+</p>
